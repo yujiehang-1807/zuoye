@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ChenJiale"
+  id="myeclipse.1557543475252"
+  context-root="/ChenJiale"
+  j2ee-spec="5.0"
+  archive="ChenJiale.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
